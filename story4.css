@@ -1,0 +1,28 @@
+html{
+    padding-left:10%;
+    padding-right:10%;
+    background-color:lavenderblush;
+}
+.second{
+      padding-top:10%;
+      padding-bottom:0px;
+      margin:auto;
+      display:flex;
+      justify-content:space-evenly;
+           
+}
+img{
+    height:150px;
+    width:150px;
+    border:2px solid black;
+    padding-left:1%;
+}
+h2{
+    color:forestgreen;
+}
+h3{
+    color:darkorange;
+}
+h1{
+    color:navy;
+}
